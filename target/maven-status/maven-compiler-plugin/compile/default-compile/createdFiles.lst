@@ -1,0 +1,6 @@
+com\infinity\util\Locator.class
+com\infinity\keywords\UIKeywords.class
+com\infinity\config\BaseClass.class
+com\infinity\util\TestListeners.class
+com\infinity\util\WaitsFor.class
+com\infinity\util\PropertiesFile.class
